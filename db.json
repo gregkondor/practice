@@ -1,1 +1,23 @@
-
+{
+  "Product": [
+  {
+    "Name": "Smart Water",
+    "Default Sales Price": 5,
+    "Cost": "2.50"
+  },
+  {
+  "Name": "Frappucino",
+  "Default Sales Price": 4,
+  "Cost": "2"
+  },
+  {
+  "Name": "Almond Can",
+  "Default Sales Price": 6,
+  "Cost": "3"
+  },
+  {"Name": "La Croix",
+  "Default Sales Price": 2,
+  "Cost": "1"
+  }
+]
+}
